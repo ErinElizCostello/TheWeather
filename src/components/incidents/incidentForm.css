@@ -1,0 +1,17 @@
+.incident-form {
+  margin: 40px;
+}
+
+.button {
+  background-color: white;
+  color: gray;
+  font-size: calc(7px + 2vmin);
+  margin: 20px;
+}
+
+.image-button {
+  background-color: white;
+  color: gray;
+  font-size: calc(7px + 2vmin);
+  margin: 20px;
+}

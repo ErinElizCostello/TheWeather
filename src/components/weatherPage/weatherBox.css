@@ -1,0 +1,25 @@
+.temp {
+  font-size: 60px;
+  color: white;
+}
+.city {
+  color: white;
+}
+
+.desc {
+  font-size: 25px;
+  color: white;
+}
+
+.weather-box {
+  color: black;
+  margin: 30px;
+}
+
+.today {
+  color: #3e4c63;
+}
+
+.jumbotron {
+  background: rgba(18, 17, 21, 0.3); 
+}
